@@ -28,51 +28,106 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 <h3 align="center"> WEB TECHNOLOGIES </h3>
 <p align="center">
   
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/default.asp)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)](https://jquery.com/)
-[![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
-[![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white")](https://www.markdownguide.org/)
+<a title="HTML5" href="https://www.w3schools.com/html/default.asp">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a title="CSS3" href="https://www.w3schools.com/css/default.asp">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a title="JavaScript" href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</a>
+<a title="JQuery" href="https://jquery.com/">
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+</a>
+<a title="PHP" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+<a title="Markdown" href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</a>
   
 </p>
 
 <h3 align="center"> FRAMEWORKS </h3>
 <p align="center">
-  
-  [![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)](https://laravel.com/)
-  [![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623)](http://codeigniter.com/)
-  [![DJango](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-  [![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)](https://vuejs.org/)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-  [![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+  <a title="Laravel" href="https://www.laravel.com/">
+    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
+  <a title="CodeIgniter" href="http://codeigniter.com/">
+    <img src="http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623" />
+  </a>
+  <a title="DJango" href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  <a title="Vue.JS" href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  </a>
+  <a title="Bootstrap" href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  <a title="Tailwind CSS" href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
   
 </p>
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
 <p align="center">
-  
-  [![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
-  [![PYTHON](http://img.shields.io/badge/-PYTHON-%23F7DF1C?style=flat-square&logo=python&logoColor=ffffff&color=%233776AB)](https://www.python.org/)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-  [![JAVA](http://img.shields.io/badge/-JAVA-%23F7DF1C?style=flat-square&logo=java&logoColor=ffffff&color=%23007396)](https://www.java.com/en/)
+  <a title="PHP" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+  <a title="Python" href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a title="JavaScript" href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a title="JAVA" href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
   
 </p>
 
 <h3 align="center"> TOOLS USING </h3>
 <p align="center">
-  
-  [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://webpack.js.org/)
-  [![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)](https://eslint.org/)
-  [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/mishajib)
-  [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
-  [![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/mishajib)
-  [![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://www.netlify.com/)
-  [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-  [![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
-  [![Adobe PhotoShop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white")]  (https://www.adobe.com/products/photoshop.html)
-  [![Adobe IllusTrator](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white")]  (https://www.adobe.com/products/photoshop.html)
+
+  <a title="Git" href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a title="Github" href="https://github.com/mishajib">
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a title="BitBucket" href="https://bitbucket.org/mishajib/">
+    <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  </a>
+  <a title="GitLab" href="https://gitlab.com/mishajib">
+    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <a title="Netlify" href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
+  </a>
+  <a title="WebPack" href="https://webpack.js.org/">
+    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+  </a>
+  <a title="ESLint" href="https://eslint.org/">
+    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
+  </a>
+  <a title="VsCode" href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+  </a>
+  <a title="PHPSTORM" href="https://www.jetbrains.com/phpstorm/">
+    <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm" />
+  </a>
+  <a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
+  </a>
+  <a title="Adobe PhotoShop" href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  </a>
+  <a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  </a>
   
 </p>
 
