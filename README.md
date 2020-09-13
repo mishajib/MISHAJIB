@@ -19,11 +19,11 @@
 
 ### Web Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)
-![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/default.asp)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)](https://jquery.com/)
+[![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
 
 ### Frameworks
 
