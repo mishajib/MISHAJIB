@@ -36,21 +36,21 @@
 
 ### Programming Languages
 
-![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
-![PYTHON](http://img.shields.io/badge/-PYTHON-%23F7DF1C?style=flat-square&logo=python&logoColor=ffffff&color=%233776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![JAVA](http://img.shields.io/badge/-JAVA-%23F7DF1C?style=flat-square&logo=java&logoColor=ffffff&color=%23007396)
+[![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
+[![PYTHON](http://img.shields.io/badge/-PYTHON-%23F7DF1C?style=flat-square&logo=python&logoColor=ffffff&color=%233776AB)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![JAVA](http://img.shields.io/badge/-JAVA-%23F7DF1C?style=flat-square&logo=java&logoColor=ffffff&color=%23007396)](https://www.java.com/en/)
 
 ### Tools
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%23007ACC?style=flat-square&logo=phpstorm)
+[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://webpack.js.org/)
+[![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)](https://eslint.org/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/mishajib)
+[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
+[![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://www.netlify.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%23007ACC?style=flat-square&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
 
 ## Stackoverflow
 
