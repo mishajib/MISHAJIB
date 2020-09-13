@@ -4,7 +4,7 @@
 
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%3b5998?style=flat-square&logo=facebook&logoColor=ffffff&labelColor=%3b5998&color=%ffffff)](https://facebook.com/mi.shajib1)
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
-[![Instagram](https://img.shields.io/badge/-MI-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
+[![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
 [![Twitter](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mishajib1)
 [![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
 
