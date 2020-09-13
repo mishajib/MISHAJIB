@@ -1,3 +1,4 @@
+<h1 align="center"> WELCOME! </h1>
 <p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="450"></p>
 
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( FULL STACK WEB DEVELOPER )</h1>
