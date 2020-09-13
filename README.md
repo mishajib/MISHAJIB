@@ -9,6 +9,7 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 - 😊 Always ready to **contribute** to **opensource** development projects.
 
 📫**To Connect With Me**
+
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff)](https://facebook.com/mi.shajib1/)
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
 [![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
@@ -19,8 +20,10 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 
 
 <p align="center">
+  
   [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishajib&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
