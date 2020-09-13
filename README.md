@@ -24,6 +24,7 @@
 ![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)
 ![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
 ![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
+![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
