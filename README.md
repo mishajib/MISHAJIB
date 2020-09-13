@@ -21,8 +21,8 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 
 <p align="center">
   
-  [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishajib&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=minhaz11&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz11&hide=css,java,html&theme=tokyonight">
   
 </p>
 
