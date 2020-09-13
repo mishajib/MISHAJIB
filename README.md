@@ -8,8 +8,7 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 - 🤝 Open for **collaborations** in the **PHP** and **Python** community.
 - 😊 Always ready to **contribute** to **opensource** development projects.
 
-<details open>
-**To Connect With Me**
+📫**To Connect With Me**
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff)](https://facebook.com/mi.shajib1/)
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
 [![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
@@ -17,7 +16,7 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 [![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
 [![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github)](https://github.com/mishajib)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
-</details>
+
 
 <p align="center">
   [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
