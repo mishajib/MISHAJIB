@@ -24,7 +24,26 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
   <img title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz11&hide=css,java,html&theme=tokyonight">
 </p>
 
+
 <h2 align="center"> MY TECH STACK </h2>
+
+<h3 align="center"> PROGRAMMING LANGUAGES </h3>
+<p align="center">
+  <a title="PHP" href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+  </a>
+  <a title="Python" href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
+  </a>
+  <a title="JavaScript" href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a title="JAVA" href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+  </a>
+  
+</p>
+
 <h3 align="center"> WEB TECHNOLOGIES </h3>
 <p align="center">
   
@@ -72,23 +91,6 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
   
 </p>
 
-<h3 align="center"> PROGRAMMING LANGUAGES </h3>
-<p align="center">
-  <a title="PHP" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-  </a>
-  <a title="Python" href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-  </a>
-  <a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
-  <a title="JAVA" href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
-  </a>
-  
-</p>
-
 <h3 align="center"> TOOLS USING </h3>
 <p align="center">
 
@@ -131,6 +133,7 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
   
 </p>
 
+
 <h2 align="center"> Stackoverflow </h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/9986054/mi-shajib">
@@ -138,9 +141,11 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
   </a>
 </p>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mishajib)
+<h2> 𝗩ISITORS </h2>
+<p align="center">
+    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mishajib" />
+</p>
 
 <!--
 **mishajib/mishajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
