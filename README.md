@@ -3,13 +3,13 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff)](https://facebook.com/mi.shajib1/)
-[![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
-[![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
-[![Twitter](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mishajib1)
+[![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
+[![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
+[![Twitter](https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mishajib1)
 [![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
 
 [![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github)](https://github.com/mishajib)
-[![Codepen](https://img.shields.io/badge/-MI%20SHAJIB-%23000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
+[![Codepen](https://img.shields.io/badge/-MI%20SHAJIB-%23FF00FF?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
 
 [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,7 +21,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=vue)
+![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=333333&labelColor=%23333333&color=%23FFCE5A)
+![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vue)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
