@@ -50,7 +50,7 @@
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
 [![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://www.netlify.com/)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%23007ACC?style=flat-square&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
+[![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
 
 ## Stackoverflow
 
