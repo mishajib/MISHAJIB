@@ -70,7 +70,9 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 
 <h2 align="center"> Stackoverflow </h2>
 <p align="center">
-  [![MI SHAJIB's Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=9986054&theme=dark)](https://stackoverflow.com/users/9986054/mi-shajib)
+  <a href="https://stackoverflow.com/users/9986054/mi-shajib">
+  <img title="MI SHAJIB's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=9986054&theme=dark" />
+  </a>
 </p>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
