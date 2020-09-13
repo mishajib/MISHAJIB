@@ -19,7 +19,7 @@
 
 ### Web Technologies
 
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp/?target=_blank)
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/default.asp)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)](https://jquery.com/)
@@ -27,12 +27,12 @@
 
 ### Frameworks
 
-![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)
-![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623)
-![DJango](https://img.shields.io/badge/-DJango-563D7C?style=flat-square&logo=Django&logoColor=ffffff&color=%23092E20)
-![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+[![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)](https://laravel.com/)
+[![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623)](http://codeigniter.com/)
+[![DJango](https://img.shields.io/badge/-DJango-563D7C?style=flat-square&logo=Django&logoColor=ffffff&color=%23092E20)](https://www.djangoproject.com/)
+[![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)](https://vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 
 ### Programming Languages
 
