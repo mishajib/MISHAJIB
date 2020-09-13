@@ -27,34 +27,41 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 <h2 align="center"> MY TECH STACK </h2>
 <h3 align="center"> WEB TECHNOLOGIES </h3>
 <p align="center">
-  [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp)
-  [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/default.asp)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-  [![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)](https://jquery.com/)
-  [![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
-  [![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white")](https://www.markdownguide.org/)
+  
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/default.asp)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/default.asp)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)](https://jquery.com/)
+[![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
+[![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white")](https://www.markdownguide.org/)
+  
 </p>
 
 <h3 align="center"> FRAMEWORKS </h3>
 <p align="center">
+  
   [![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)](https://laravel.com/)
   [![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623)](http://codeigniter.com/)
   [![DJango](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
   [![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)](https://vuejs.org/)
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
   [![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+  
 </p>
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
 <p align="center">
+  
   [![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)](https://www.php.net/)
   [![PYTHON](http://img.shields.io/badge/-PYTHON-%23F7DF1C?style=flat-square&logo=python&logoColor=ffffff&color=%233776AB)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
   [![JAVA](http://img.shields.io/badge/-JAVA-%23F7DF1C?style=flat-square&logo=java&logoColor=ffffff&color=%23007396)](https://www.java.com/en/)
+  
 </p>
 
 <h3 align="center"> TOOLS USING </h3>
 <p align="center">
+  
   [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://webpack.js.org/)
   [![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)](https://eslint.org/)
   [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
@@ -66,6 +73,7 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
   [![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
   [![Adobe PhotoShop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white")]  (https://www.adobe.com/products/photoshop.html)
   [![Adobe IllusTrator](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white")]  (https://www.adobe.com/products/photoshop.html)
+  
 </p>
 
 <h2 align="center"> Stackoverflow </h2>
