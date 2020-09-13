@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( _FULL STACK WEB DEVELOPER_ )
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff)](https://facebook.com/mi.shajib1/)
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
