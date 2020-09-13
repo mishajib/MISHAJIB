@@ -21,19 +21,22 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JQuery](https://img.shields.io/badge/-Jquery-%23F7DF1C?style=flat-square&logo=jquery&logoColor=ffffff&color=%230769AD)
-![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
 ![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
+
+### Frameworks
+
 ![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)
+![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### Programming Languages
+
 ![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
 ![PYTHON](http://img.shields.io/badge/-PYTHON-%23F7DF1C?style=flat-square&logo=python&logoColor=ffffff&color=%233776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JAVA](http://img.shields.io/badge/-JAVA-%23F7DF1C?style=flat-square&logo=java&logoColor=ffffff&color=%23007396)
-
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
