@@ -32,6 +32,7 @@
 ![DJango](https://img.shields.io/badge/-DJango-563D7C?style=flat-square&logo=Django&logoColor=ffffff&color=%23092E20)
 ![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ### Programming Languages
 
@@ -48,8 +49,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![PHPSTORM](https://img.shields.io/badge/-PhpStorm-%23007ACC?style=flat-square&logo=phpstorm)
-
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ## Stackoverflow
 
