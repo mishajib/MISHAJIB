@@ -25,7 +25,7 @@
 ![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
 ![PHP](http://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&color=%23777BB4)
 
-![Webpack](https://img.shields.io/badge/-Webpack-%238DD6F9?style=flat-square&logo=webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
