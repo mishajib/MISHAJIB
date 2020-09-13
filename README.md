@@ -18,9 +18,8 @@ I am a passionate **full-stack web developer** with 2+ years of experience. I ha
 [![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github)](https://github.com/mishajib)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
 
-
+<h2 align="center"> MY GITHUB STATS </h2>
 <p align="center">
-  
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=minhaz11&show_icons=true&theme=tokyonight&line_height=27">
   <img title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz11&hide=css,java,html&theme=tokyonight">
   
