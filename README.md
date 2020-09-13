@@ -1,19 +1,28 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( _FULL STACK WEB DEVELOPER_ )
-
 <p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="450"></p>
 
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( _FULL STACK WEB DEVELOPER_ )
+
+I am a passionate **full-stack web developer** with 2+ years of experience. I have experienced and love to work with few technologies are - **PHP**, **Python**, **JavaScript**. I am always looking forward to the **opportunity** to work in the **software engineering industries**. I always love to learn **new techs** in the programming world.
+
+- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **Python**, **JavaScript** coding, data structures, and algorithms.
+- 🤝 Open for **collaborations** in the **PHP** and **Python** community.
+- 😊 Always ready to **contribute** to **opensource** development projects.
+
+<details open>
+**To Connect With Me**
 [![Facebook](https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff)](https://facebook.com/mi.shajib1/)
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
 [![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
 [![Twitter](https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mishajib1)
 [![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
-
 [![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github)](https://github.com/mishajib)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/mishajib/)
+</details>
 
-[![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishajib&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishajib&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
