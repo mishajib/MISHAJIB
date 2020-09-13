@@ -39,7 +39,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 
 <h2 align="center"> MY GITHUB STATS </h2>
 <p align="center">
-  <img title="github stats" width="600" src="https://github-readme-stats.vercel.app/api?username=mishajib&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=mishajib&show_icons=true&theme=tokyonight&line_height=27">
   <img title="github stats" width="600" height="207" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishajib&theme=tokyonight">
 </p>
 
