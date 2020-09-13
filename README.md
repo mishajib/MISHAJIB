@@ -6,9 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mishajib/)
 [![Instagram](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/mi.shajib1/)
 [![Twitter](https://img.shields.io/badge/-MI%20SHAJIB-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mishajib1)
-[![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
+[![Youtube](https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w)
 
-[![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23181717?style=flat-square&logo=github)](https://github.com/mishajib)
+[![Github](https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github)](https://github.com/mishajib)
 [![Codepen](https://img.shields.io/badge/-MI%20SHAJIB-%23000000?style=flat-square&logo=codepen)](https://codepen.io/fahaddevs)
 
 [![MI SHAJIB's github stats](https://github-readme-stats.vercel.app/api?username=mishajib&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
