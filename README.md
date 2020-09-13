@@ -28,6 +28,7 @@
 ### Frameworks
 
 ![LARAVEL](http://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=laravel&logoColor=ffffff&color=%23FF2D20)
+![CodeIgniter](http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623)
 ![DJango](https://img.shields.io/badge/-DJango-563D7C?style=flat-square&logo=Django&logoColor=ffffff&color=%23092E20)
 ![Vue.js](http://img.shields.io/badge/-Vue%20Js-%2341B883?style=flat-square&logo=Vue.js&logoColor=ffffff&color=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
