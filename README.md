@@ -142,6 +142,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
     <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
   </a>
+  <br />
   <a title="Adobe PhotoShop" href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
   </a>
