@@ -181,11 +181,15 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   </a>
+  <br/>
   <a title="Wordpress WooCommerce Plugin" href="https://woocommerce.com/">
     <img src="https://img.shields.io/badge/WooCommerce%20-%2396588A.svg?&style=flat-square&logo=woocommerce&logoColor=white"/>
   </a>
   <a title="Wordpress Yoast Seo Plugin" href="https://yoast.com/">
     <img src="https://img.shields.io/badge/Yoast%20-%23A4286A.svg?&style=flat-square&logo=yoast&logoColor=white"/>
+  </a>
+  <a title="Wordpress Rocket (Speed Optimization Plugin)" href="https://wp-rocket.me/">
+    <img src="https://img.shields.io/badge/WP%20Rocket-%23F56640.svg?&style=flat-square&logo=WpRocket&logoColor=white"/>
   </a>
   
 </p>
