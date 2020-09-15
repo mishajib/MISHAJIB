@@ -145,7 +145,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
     <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
   </a>
   <a title="Sublime Text" href="https://www.sublimetext.com/">
-    <img src="https://img.shields.io/badge/-Sublime%20Text-%23FF9800?style=flat-square&logo=sublime-text" />
+    <img src="https://img.shields.io/badge/-Sublime%20Text-%23FF9800?style=flat-square&logo=sublime-text&logoColor=white" />
   </a>
   <a title="Atom" href="https://atom.io/">
     <img src="https://img.shields.io/badge/-Atom%20-%2366595C?style=flat-square&logo=atom" />
@@ -156,6 +156,16 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <h4 align="center"> Other Tools </h4>
 
 <p align="center">
+    
+  <a title="Beautiful Soup" href="https://pypi.org/project/beautifulsoup4/">
+    <img src="https://img.shields.io/badge/Beautiful%20Soup-%235D87BF.svg?&style=flat-square&logo=beautiful-soup&logoColor=ffffff" />
+  </a>
+  <a title="Pandas" href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff" />
+  </a>
+  <a title="Selenium" href="https://selenium-python.readthedocs.io/">
+    <img src="https://img.shields.io/badge/-Selenium-%23006567?style=flat-square&logo=selenium&logoColor=ffffff" />
+  </a>
   <a title="Netlify" href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
   </a>
@@ -171,6 +181,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   </a>
+  
 </p>
 <hr/>
 
