@@ -134,6 +134,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <h4 align="center"> Editors & <span title="Intergrated Development Environment">IDE</span>'s </h4>
 
 <p align="center">
+    
   <a title="VsCode" href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
   </a>
@@ -143,6 +144,13 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
     <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
   </a>
+  <a title="Sublime Text" href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/-Sublime%20Text-%23FF9800?style=flat-square&logo=sublime-text" />
+  </a>
+  <a title="Atom" href="https://atom.io/">
+    <img src="https://img.shields.io/badge/-Atom%20-%2366595C?style=flat-square&logo=atom" />
+  </a>
+    
 </p>
 
 <h4 align="center"> Other Tools </h4>
