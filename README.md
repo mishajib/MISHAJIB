@@ -86,7 +86,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   
 </p>
 
-<h3 align="center"> FRAMEWORKS </h3>
+<h3 align="center"> FRAMEWORKS & CMS </h3>
 <p align="center">
   <a title="Laravel" href="https://www.laravel.com/">
     <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
@@ -105,6 +105,9 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   </a>
   <a title="Tailwind CSS" href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
+  </a>
+   <a title="WordPress" href="https://wordpress.org/">
+    <img src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
   </a>
   
 </p>
@@ -125,16 +128,12 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   </a>
   <a title="GitLab" href="https://gitlab.com/mishajib">
     <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
-  </a>
-  <a title="Netlify" href="https://www.netlify.com/">
-    <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
-  </a>
-  <a title="WebPack" href="https://webpack.js.org/">
-    <img src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
-  </a>
-  <a title="ESLint" href="https://eslint.org/">
-    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
-  </a>
+  </a>  
+</p>
+
+<h4 align="center"> Editors & <span title="Intergrated Development Environment">IDE</span>'s </h4>
+
+<p align="center">
   <a title="VsCode" href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
   </a>
@@ -144,14 +143,26 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
     <img src="https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=pycharm" />
   </a>
-  <br />
+</p>
+
+<h4 align="center"> Other Tools </h4>
+
+<p align="center">
+  <a title="Netlify" href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
+  </a>
+  <a title="WebPack" href="https://webpack.js.org/">
+    <img src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
+  </a>
+  <a title="ESLint" href="https://eslint.org/">
+    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
+  </a>
   <a title="Adobe PhotoShop" href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
   </a>
   <a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   </a>
-  
 </p>
 <hr/>
 
