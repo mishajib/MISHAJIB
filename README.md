@@ -1,5 +1,5 @@
 <h1 align="center"> WELCOME! </h1>
-<p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="450"></p>
+<p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="500"></p>
 
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( FULL STACK WEB DEVELOPER )</h1>
 
@@ -48,16 +48,16 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
 <p align="center">
   <a title="PHP" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
   </a>
   <a title="Python" href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   </a>
   <a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
   <a title="JAVA" href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
   </a>
   
 </p>
@@ -66,22 +66,22 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <p align="center">
   
 <a title="HTML5" href="https://www.w3schools.com/html/default.asp">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
 </a>
 <a title="CSS3" href="https://www.w3schools.com/css/default.asp">
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
 </a>
 <a title="JavaScript" href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a title="JQuery" href="https://jquery.com/">
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </a>
 <a title="PHP" href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 </a>
 <a title="Markdown" href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 </a>
   
 </p>
@@ -89,46 +89,48 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <h3 align="center"> FRAMEWORKS </h3>
 <p align="center">
   <a title="Laravel" href="https://www.laravel.com/">
-    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
   </a>
   <a title="CodeIgniter" href="http://codeigniter.com/">
     <img src="http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623" />
   </a>
   <a title="DJango" href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DJango%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
   </a>
   <a title="Vue.JS" href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
+    <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   </a>
   <a title="Bootstrap" href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
   </a>
   <a title="Tailwind CSS" href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
   </a>
   
 </p>
 
 <h3 align="center"> TOOLS USING </h3>
+<hr/>
+<h4 align="center"> Version Controlling Tool </h4>
 <p align="center">
 
   <a title="Git" href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
   </a>
   <a title="Github" href="https://github.com/mishajib">
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a title="BitBucket" href="https://bitbucket.org/mishajib/">
-    <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
   </a>
   <a title="GitLab" href="https://gitlab.com/mishajib">
-    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
   </a>
   <a title="Netlify" href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
   </a>
   <a title="WebPack" href="https://webpack.js.org/">
-    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" />
   </a>
   <a title="ESLint" href="https://eslint.org/">
     <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
@@ -144,10 +146,10 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   </a>
   <br />
   <a title="Adobe PhotoShop" href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
   </a>
   <a title="Adobe Illustrator" href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   </a>
   
 </p>
