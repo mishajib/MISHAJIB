@@ -189,7 +189,22 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
     <img src="https://img.shields.io/badge/Yoast%20-%23A4286A.svg?&style=flat-square&logo=yoast&logoColor=white"/>
   </a>
   <a title="Wordpress Rocket (Speed Optimization Plugin)" href="https://wp-rocket.me/">
-    <img src="https://img.shields.io/badge/WP%20Rocket-%23F56640.svg?&style=flat-square&logo=WpRocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WP%20Rocket-%23F56640.svg?&style=flat-square&logo=wp-rocket&logoColor=white"/>
+  </a>
+  <a title="The World Wide Web Consortium (W3C)" href="https://www.w3.org/">
+    <img src="https://img.shields.io/badge/W3C-%23005A9C.svg?&style=flat-square&logo=w3c&logoColor=white"/>
+  </a>
+  <a title="APACHE (Web Server)" href="https://www.apache.org/">
+    <img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=flat-square&logo=apache&logoColor=white"/>
+  </a>
+  <a title="NGINX (Web Server)" href="https://www.nginx.com/">
+    <img src="https://img.shields.io/badge/Nginx-%23269539.svg?&style=flat-square&logo=nginx&logoColor=white"/>
+  </a>
+  <a title="XAMPP" href="https://www.apachefriends.org/download.html">
+    <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?&style=flat-square&logo=xampp&logoColor=white"/>
+  </a>
+  <a title="Trello" href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-%230079BF.svg?&style=flat-square&logo=trello&logoColor=white"/>
   </a>
   
 </p>
