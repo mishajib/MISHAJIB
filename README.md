@@ -88,6 +88,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 
 <h3 align="center"> FRAMEWORKS & CMS </h3>
 <p align="center">
+    
   <a title="Laravel" href="https://www.laravel.com/">
     <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
   </a>
@@ -108,6 +109,21 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   </a>
    <a title="WordPress" href="https://wordpress.org/">
     <img src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
+  </a>
+  
+</p>
+
+<h3 align="center"> DATABASES </h3>
+<p align="center">
+    
+  <a title="SQLite" href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
+  </a>
+  <a title="MYSQL" href="https://www.mysql.com/">
+    <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
+  </a>
+  <a title="POSTGRESQL" href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
   </a>
   
 </p>
