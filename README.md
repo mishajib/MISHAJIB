@@ -104,6 +104,9 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="Vue.JS" href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   </a>
+  <a title="React JS" href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React%20JS-%2335495e.svg?&style=flat-square&logo=reactjs&logoColor=%234FC08D"/>
+  </a>
   <a title="Bootstrap" href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
   </a>
