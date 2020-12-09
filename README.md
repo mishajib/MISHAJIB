@@ -93,7 +93,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
     <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
   </a>
   <a title="Laravel Livewire" href="https://laravel-livewire.com/">
-    <img src="https://img.shields.io/badge/LaravelLivewire%20-%23FF2D20.svg?&style=flat-square&logo=laravel-livwire&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=flat-square&logo=laravel-livwire&logoColor=white"/>
   </a>
   <a title="CodeIgniter" href="http://codeigniter.com/">
     <img src="http://img.shields.io/badge/-CodeIgniter-%23F7DF1C?style=flat-square&logo=CodeIgniter&logoColor=ffffff&color=%23EE4623" />
