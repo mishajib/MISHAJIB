@@ -1,7 +1,7 @@
 <h1 align="center"> WELCOME! </h1>
 <p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="500"></p>
 
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( FULL STACK WEB DEVELOPER )</h1>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( WEB APPLICATION DEVELOPER )</h1>
 
 <p align="justify">
 I am a passionate <strong>full-stack web developer</strong> with 2+ years of experience. I have experienced and love to work with few technologies are - <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>. I am always looking forward to the <strong>opportunity</strong> to work in the <strong>software engineering industries</strong>. I always love to learn <strong>new techs</strong> in the programming world.
