@@ -7,8 +7,8 @@
 I am a passionate <strong>full-stack web developer</strong> with 2+ years of experience. I have experienced and love to work with few technologies are - <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>. I am always looking forward to the <strong>opportunity</strong> to work in the <strong>software engineering industries</strong>. I always love to learn <strong>new techs</strong> in the programming world.
 </p>
 
-- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **Python**, **JavaScript** coding, data structures, and algorithms.
-- 🤝 Open for **collaborations** in the **PHP** and **Python** community.
+- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, **Python** coding, data structures, and algorithms.
+- 🤝 Open for **collaborations** in the **PHP**, **JavaScript** and **Python** community.
 - 😊 Always ready to **contribute** to **opensource** development projects.
 
 <h2 align="center">📫 WHERE TO FIND ME</h2>
@@ -50,11 +50,11 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   <a title="PHP" href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
   </a>
-  <a title="Python" href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-  </a>
   <a title="JavaScript" href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a title="Python" href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   </a>
   <a title="JAVA" href="https://www.java.com/en/">
     <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
@@ -74,9 +74,6 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
 <a title="JavaScript" href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
-<a title="JQuery" href="https://jquery.com/">
-    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-</a>
 <a title="PHP" href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 </a>
@@ -86,7 +83,7 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   
 </p>
 
-<h3 align="center"> FRAMEWORKS & CMS </h3>
+<h3 align="center"> FRAMEWORKS & CMS & LIBRARIES </h3>
 <p align="center">
     
   <a title="Laravel" href="https://www.laravel.com/">
@@ -100,6 +97,9 @@ I am a passionate <strong>full-stack web developer</strong> with 2+ years of exp
   </a>
   <a title="DJango" href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/DJango%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
+  </a>
+  <a title="JQuery" href="https://jquery.com/">
+    <img src="https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
   </a>
   <a title="Vue.JS" href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
